@@ -24,7 +24,7 @@ To get started with the React Comment Form, follow these simple steps:
 ```bash
 
 # Clone this repository:
-$ git clone https://github.com/AlenaGM/react-comments-form.git
+$ git clone https://github.com/alenalou/react-comments-form.git
 
 # Navigate to the repository:
 $ cd react-comments-form
@@ -54,4 +54,4 @@ $ git checkout https://github.com/AlenaGM/react-comments-form -b name_for_new_br
   
 
    [ITGirlSchool]: <https://itgirlschool.com/en>
-   [React Comment Form]: <https://alenagm.github.io/react-comments-form/>
+   [React Comment Form]: <https://alenalou.github.io/react-comments-form/>
